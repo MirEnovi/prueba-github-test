@@ -9,7 +9,7 @@ function Nav () {
         console.log(page)
     } */
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-5">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
             <NavLink className="navbar-brand" to="/">
                 GitHub Api 
             </NavLink>

@@ -3,10 +3,17 @@
 }
 
 body {
-  background-color: #282c34;
+  background-color: #4b515e;
   color: #fff;
 }
 
 .title {
   text-align: center
+}
+
+.filter-btns button {
+  min-width: 100px;
+}
+.chart {
+  background: #fff;
 }
