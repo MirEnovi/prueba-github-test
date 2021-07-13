@@ -20,7 +20,7 @@ Para probar de manera local es necesario contar con:
 
 Guía de instalación:
 
-- Descomprimir el proyecto.
+- Descomprimir o clonar el proyecto.
 - Abrir la carpeta de trabajo en tu terminal y escribir lo siguiente.
     - npm install.
     - npm start.
