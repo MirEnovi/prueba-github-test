@@ -7,7 +7,7 @@ En este miniproyecto, crearemos una pequeña aplicación web que visualice los d
 
 ## Guía de usuario
 
-La aplicación esta deployada [aquí](https://mirenovi.github.io/), y también se puede probar de manera local, clonando este repositorio.
+La aplicación se puede probar de manera local, clonando este repositorio.
 
 ## Guía de instalación
 
@@ -20,10 +20,8 @@ Para probar de manera local es necesario contar con:
 
 Guía de instalación:
 
-- Clonar este repositorio.
+- Descomprimir el proyecto.
 - Abrir la carpeta de trabajo en tu terminal y escribir lo siguiente.
-    - git clone https://github.com/MirEnovi/.
-    - cd data-analysis
     - npm install.
     - npm start.
 

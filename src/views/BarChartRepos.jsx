@@ -4,7 +4,7 @@ import { Bar } from "react-chartjs-2";
 
 
 function BarChartRepos () {
-    const [labelsState, setLabelsState] = useState(["repo1", "repo2", "repo3", "repo4", "repo5", "repo6"])
+    const [labelsState, setLabelsState] = useState(['repo1', 'repo2', 'repo3', 'repo4', 'repo5', 'repo6'])
     const [starsCountState, setStarsCountState] = useState([12, 19, 3, 5, 2, 3])
 
     const getRespos = (language) => {
